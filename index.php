@@ -6,7 +6,7 @@ function testeOla(){
 function teste2(){
 }
 function teste3(){
-    
+    echo "";
 }
 
 ?>
